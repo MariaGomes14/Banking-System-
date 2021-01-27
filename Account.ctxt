@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=Account()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ account\r\n
+comment2.params=user
+comment2.target=Account(java.lang.String)
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Display\ account\ number\ and\ balance\r\n\r\n\ @param\ \ n/a\r\n\ @return\ \ \ \ n/a\r\n
+comment4.params=m
+comment4.target=void\ withdraw(float)
+comment4.text=\r\n\ withdraw\ amount\ of\ money\ m\r\n\r\n\ @param\ \ m\ amount\ of\ money\ m\ to\ withdraw\r\n\ @return\ \ \ \ n/a\r\n
+comment5.params=m
+comment5.target=void\ deposit(float)
+comment5.text=\r\n\ deposit\ amount\ of\ money\ m\r\n\r\n\ @param\ \ m\ amount\ of\ money\ m\ to\ deposit\r\n\ @return\ \ \ \ n/a\r\n
+comment6.params=
+comment6.target=float\ getBalance()
+comment6.text=\r\n\ return\ the\ balance\r\n\ @return\ \ \ \ balance\r\n
+comment7.params=
+comment7.target=java.lang.String\ getUsername()
+comment7.text=\r\n\ return\ the\ username\r\n\ @return\ \ \ \ username\r\n
+comment8.params=
+comment8.target=int\ getAccountNo()
+numComments=9
